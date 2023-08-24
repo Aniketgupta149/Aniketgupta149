@@ -1,11 +1,7 @@
 <!Doctypehtml>
 <html>
 <head>
-<title>  table design </title>
-<style>
-table, th, td {
-}
-</style>
+
 
 
 </head>
