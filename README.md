@@ -15,7 +15,7 @@ I am currently working on web development. <br>I am learning Node.js and React.j
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aniketgupta149&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️  Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
