@@ -1,7 +1,8 @@
 # 💫 About Me:
 Hi there! I’m Aniket Gupta 🚀<br>A Data Analyst & Data Scientist with a knack for transforming raw data into powerful insights, and a Web Developer who loves building sleek, scalable, and user-friendly applications.
 
-![Alt text for accessibility](Intro.gif)
+
+<img src="Intro.gif" alt="Alt Text for the GIF" width="500" height="300">
 
 
 
