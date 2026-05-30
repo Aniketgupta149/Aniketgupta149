@@ -154,6 +154,47 @@ Hi there! I'm **Aniket Gupta** 👋 – a passionate **Data Analyst & Data Scien
 
 ---
 
+## 🏆 Featured Projects
+
+<div align="center">
+
+### ⭐ Elite Portfolio Showcase
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|-----------|--------|
+| **📊 Data Analytics Dashboard** | Interactive Power BI & Tableau dashboards with real-time data visualization | Power BI, Tableau, SQL | ✅ Active |
+| **🤖 ML Prediction Engine** | Advanced machine learning models for predictive analytics | Python, TensorFlow, Scikit-learn | ✅ Active |
+| **🌐 Web Application** | Full-stack responsive web app with React & Node.js | React, Node.js, Firebase | ✅ Active |
+| **📈 Data Science Portfolio** | Collection of end-to-end data science projects | Python, Pandas, Matplotlib | ✅ Active |
+
+🔗 **Explore all repositories:** [GitHub Repositories](https://github.com/Aniketgupta149?tab=repositories)
+
+</div>
+
+---
+
+## 🎓 Certifications & Qualifications
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                     🏅 ACHIEVEMENTS                           ║
+╠═══════════════════════════════════════════════════════════════╣
+║                                                               ║
+║  ✓ Advanced Data Analytics & Visualization                   ║
+║  ✓ Machine Learning & Deep Learning Specialization           ║
+║  ✓ Full-Stack Web Development                                ║
+║  ✓ Python for Data Science & AI                              ║
+║  ✓ Cloud Computing & DevOps Fundamentals                     ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
 ## 💎 Fun Fact
 
 ```
@@ -221,7 +262,7 @@ that inspire action and drive meaningful decisions.
 
 ---
 
-## 🚀 Notable Projects
+## 🚀 Notable Projects & Contributions
 
 <div align="center">
 
@@ -231,6 +272,36 @@ that inspire action and drive meaningful decisions.
 - 🌐 Full-Stack Web Applications
 - 📈 Business Intelligence Dashboards
 - 🎯 Real-world Problem Solutions
+
+</div>
+
+---
+
+## 🤝 How to Contribute
+
+I love collaborating with passionate developers! Here's how you can contribute:
+
+```markdown
+1. Fork the repository
+2. Create a new branch (git checkout -b feature/amazing-feature)
+3. Commit your changes (git commit -m 'Add amazing feature')
+4. Push to the branch (git push origin feature/amazing-feature)
+5. Open a Pull Request
+
+All contributions are welcome! Check out individual repositories for specific guidelines.
+```
+
+---
+
+## 📚 Learning Resources
+
+<div align="center">
+
+I'm always learning and sharing knowledge. Check out my:
+- 📖 **Blog Posts** - Technical articles & insights
+- 🎥 **Tutorials** - Step-by-step guides for data & web dev
+- 📝 **Documentation** - Comprehensive project docs
+- 🔗 **Resources** - Curated links for learning
 
 </div>
 
@@ -280,6 +351,27 @@ I'm continuously evolving through:
 
 ---
 
+## 🎯 Goals & Vision for 2026
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                    🚀 2026 ROADMAP 🚀                         ║
+╠═══════════════════════════════════════════════════════════════╣
+║                                                               ║
+║  Q1: Master Advanced Deep Learning & Transformers            ║
+║  Q2: Build AI-powered Web Applications                       ║
+║  Q3: Contribute to Major Open-Source Projects                ║
+║  Q4: Establish Thought Leadership in Data & Web Dev          ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
 ## ⭐ Let's Connect!
 
 <div align="center">
@@ -290,6 +382,7 @@ I'm continuously evolving through:
 - 🎯 Mentoring & knowledge sharing
 - 📊 Data analysis projects
 - 🌐 Web development ventures
+- 💡 Creative ideas & innovations
 
 ---
 
@@ -297,14 +390,30 @@ I'm continuously evolving through:
 
 **"Success is not final, failure is not fatal: it's the courage to continue that counts."** — Winston Churchill
 
+**"In the world of data and code, creativity meets logic, and excellence is born."** — Aniket Gupta
+
 **Made with ❤️ by Aniket Gupta**
 
 </div>
 
 ---
 
+## 🔐 Privacy & Security
+
+All my projects follow best practices for:
+- ✅ Data Protection & Privacy
+- ✅ Secure Coding Standards
+- ✅ Open-Source Licenses Compliance
+- ✅ Ethical AI & Responsible Computing
+
+---
+
 <div align="center">
   
-  <sub>Last Updated: May 2026 | Profile Version 3.0 - Futuristic Edition ✨</sub>
+  <sub>Last Updated: May 2026 | Profile Version 4.0 - Ultimate Futuristic Edition ✨</sub>
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/Status-Always%20Coding-00FF41?style=for-the-badge" alt="Status" />
   
 </div>
