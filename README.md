@@ -119,21 +119,87 @@ Hi there! I'm **Aniket Gupta** 👋 – a passionate **Data Analyst & Data Scien
 
 <div align="center">
 
-### ⚡ Performance Metrics
+### ⚡ **Performance & Activity Metrics**
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                 📈 COMPREHENSIVE GITHUB ANALYTICS SUITE             ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+### 📌 **Profile Statistics & Achievements**
 
 [![Aniketgupta149's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aniketgupta149&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=58A6FF&title_color=00FF41&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/Aniketgupta149)
 
-### 🔥 Contribution Streak
+---
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Aniketgupta149&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/Aniketgupta149)
+### 🔥 **Contribution Streak & Consistency**
 
-### 🏆 Language Proficiency
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Aniketgupta149&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF41)](https://github.com/Aniketgupta149)
+
+---
+
+### 🏆 **Language Proficiency & Distribution**
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketgupta149&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=58A6FF&title_color=00FF41&layout=compact&include_all_commits=true&count_private=true)](https://github.com/Aniketgupta149)
 
-### 🚀 Top Contributed Repositories
+---
+
+### 🚀 **Top Contributed Repositories & Projects**
 
 [![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=Aniketgupta149&limit=5&theme=aura&combine_all_yearly_contributions=true)](https://github.com/Aniketgupta149)
+
+---
+
+### 💡 **Developer Insights & Inspiration**
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+### 📌 **Additional Performance Indicators**
+
+| Metric | Status | Details |
+|:------:|:------:|:--------|
+| 🔧 **Total Repositories** | ![Dynamic Badge](https://img.shields.io/badge/Active-Growing-00FF41?style=flat-square) | Full-stack & data science projects |
+| 💾 **Code Commits** | ![Dynamic Badge](https://img.shields.io/badge/Consistent-Daily-00FF41?style=flat-square) | Regular contributions and updates |
+| 📊 **Pull Requests** | ![Dynamic Badge](https://img.shields.io/badge/Collaborative-Active-00FF41?style=flat-square) | Community contributions & reviews |
+| 🎯 **Issues Resolved** | ![Dynamic Badge](https://img.shields.io/badge/Problem%20Solver-Expert-00FF41?style=flat-square) | Debug & optimization focused |
+
+---
+
+### 🌟 **GitHub Activity Overview**
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                ┃
+┃  🎯 Consistent Developer with Focus on:                      ┃
+┃  ✓ Data Science & Machine Learning Projects                  ┃
+┃  ✓ Full-Stack Web Application Development                    ┃
+┃  ✓ Data Visualization & Analytics Solutions                  ┃
+┃  ✓ Open-Source Contributions & Collaboration                 ┃
+┃  ✓ Code Quality & Best Practices                             ┃
+┃                                                                ┃
+┃  📈 Repository Statistics:                                   ┃
+┃  • Languages: Python, JavaScript, SQL, HTML/CSS              ┃
+┃  • Most Active Areas: Data Science, Web Dev                  ┃
+┃  • Collaboration Level: High                                 ┃
+┃  • Community Engagement: Active                              ┃
+┃                                                                ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+---
+
+### 📊 **Real-Time Activity Tracker**
+
+[![Profile Views Counter](https://visitcount.itsvg.in/api?id=Aniketgupta149&icon=0&color=00FF41)](https://visitcount.itsvg.in)
+
+![Contributions Badge](https://img.shields.io/badge/Contributions-Increasing-00FF41?style=for-the-badge)
+![Profile Status](https://img.shields.io/badge/Status-Always%20Coding-blue?style=for-the-badge)
+![Last Updated](https://img.shields.io/badge/Last%20Active-Today-green?style=for-the-badge)
 
 </div>
 
@@ -453,7 +519,7 @@ Your support helps me create more valuable content and continue developing amazi
 ║  Q3 2026: Contribute to Major Open-Source Projects           ║
 ║  ✓ Focus: Community-driven development and collaboration     ║
 ║                                                               ║
-║  Q4 2026: Establish Thought Leadership                       ║
+���  Q4 2026: Establish Thought Leadership                       ║
 ║  ✓ Focus: Technical writing, speaking, and mentoring         ║
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
@@ -536,11 +602,11 @@ Your support and feedback fuel my passion for continuous improvement and innovat
   
   ![Profile Status](https://img.shields.io/badge/Status-Active%20Developer-00FF41?style=for-the-badge)
   ![Last Updated](https://img.shields.io/badge/Last%20Updated-May%202026-blue?style=for-the-badge)
-  ![Version](https://img.shields.io/badge/Version-5.0%20Premium-important?style=for-the-badge)
+  ![Version](https://img.shields.io/badge/Version-5.1%20Enhanced-important?style=for-the-badge)
   
   <br>
   
-  <sub>🚀 Profile Version 5.0 - Ultimate Premium Edition with Professional Card Design ✨</sub>
+  <sub>🚀 Profile Version 5.1 - Ultimate Premium Edition with Complete Analytics Dashboard ✨</sub>
   
   <sub>Last Updated: May 30, 2026</sub>
 
