@@ -1,11 +1,6 @@
 # 💫 About Me:
 Hi there! I’m Aniket Gupta 🚀<br>A Data Analyst & Data Scientist with a knack for transforming raw data into powerful insights, and a Web Developer who loves building sleek, scalable, and user-friendly applications.
 
-
-<img src="Intro.gif" alt="Alt Text for the GIF" width="500" height="300">
-
-
-
 <br>📊 Skilled in Python, SQL, and Machine Learning to uncover trends and make data-driven decisions<br><br>🌐 Experienced in Web Development (React, Node.js, Firebase) for creating modern digital solutions<br><br>📈 Passionate about Data Visualization & Storytelling using Power BI, Tableau, and Excel<br><br>🤖 Exploring the fusion of AI, Data Science, and Web Tech to solve real-world challenges<br><br>📚 Lifelong learner, always curious to explore new technologies and sharpen my craft<br><br>⚡ Tech Toolbox<br><br>💻 Programming: Python, SQL, JavaScript, HTML, CSS<br>📊 Analytics & BI: Power BI, Tableau, Excel<br>🤖 Machine Learning: Scikit-learn, TensorFlow, NLP<br>🌐 Web Dev: React, Node.js, Firebase<br>🔧 Version Control: Git, GitHub<br><br>🌟 Fun Fact<br><br>I believe data is not just numbers—it’s a story waiting to be told!
 
 
