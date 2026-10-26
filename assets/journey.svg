@@ -31,7 +31,6 @@
 
   <circle class="dot d1" cx="84"  cy="88" r="9"/>
   <circle class="dot d2" cx="252" cy="88" r="9"/>
-  <circle class="dot d3" cx="420" cy="88" r="9"/>
   <circle class="dot d4" cx="588" cy="88" r="9"/>
   <circle class="ring"   cx="756" cy="88" r="9"/>
   <circle class="dot now d5" cx="756" cy="88" r="9"/>
@@ -48,7 +47,6 @@
     <text class="sub"   x="252" y="148">Mumbai University</text>
     <text class="sub"   x="252" y="166">CGPA 8.25 / 10</text>
   </g>
-  
   <g class="step d4" text-anchor="middle">
     <text class="year"  x="588" y="58">2025</text>
     <text class="title" x="588" y="128">Data Analytics Upskilling</text>
