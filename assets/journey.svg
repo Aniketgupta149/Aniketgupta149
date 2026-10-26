@@ -25,15 +25,14 @@
   </defs>
 
   <rect class="panel" x="1" y="1" width="838" height="228" rx="16"/>
-
   <line class="track" x1="84" y1="88" x2="756" y2="88"/>
   <line class="line"  x1="84" y1="88" x2="756" y2="88"/>
 
   <circle class="dot d1" cx="84"  cy="88" r="9"/>
   <circle class="dot d2" cx="252" cy="88" r="9"/>
-  <circle class="dot d4" cx="588" cy="88" r="9"/>
+  <circle class="dot d3" cx="588" cy="88" r="9"/>
   <circle class="ring"   cx="756" cy="88" r="9"/>
-  <circle class="dot now d5" cx="756" cy="88" r="9"/>
+  <circle class="dot now d4" cx="756" cy="88" r="9"/>
 
   <g class="step d1" text-anchor="middle">
     <text class="year"  x="84" y="58">2020</text>
@@ -47,13 +46,13 @@
     <text class="sub"   x="252" y="148">Mumbai University</text>
     <text class="sub"   x="252" y="166">CGPA 8.25 / 10</text>
   </g>
-  <g class="step d4" text-anchor="middle">
+  <g class="step d3" text-anchor="middle">
     <text class="year"  x="588" y="58">2025</text>
     <text class="title" x="588" y="128">Data Analytics Upskilling</text>
     <text class="sub"   x="588" y="148">NSDC · ITVedant · IBM</text>
     <text class="sub"   x="588" y="166">SQL · Power BI · Tableau</text>
   </g>
-  <g class="step d5" text-anchor="middle">
+  <g class="step d4" text-anchor="middle">
     <text class="year"  x="756" y="58">NOW</text>
     <text class="title" x="756" y="128">Building Analytics web Apps at Abhinandan Creation</text>
     <text class="sub"   x="756" y="148">AppScrpt · GoogleSheet · Clude</text>
