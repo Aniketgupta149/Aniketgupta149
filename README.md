@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://aniket-portfolio149.web.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+business+insights+%F0%9F%93%8A;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau+%7C+Excel;Building+dashboards+that+tell+stories+%F0%9F%93%88;Exploring+Machine+Learning+%26+AI+%F0%9F%A4%96;Open+to+Data+Analyst+roles+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+business+decisions+%F0%9F%93%8A;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau+%7C+Excel;15%2B+projects+%E2%80%A2+20%2B+certifications+%E2%80%A2+B.Sc.+CS;Dashboards+that+tell+stories+%F0%9F%93%88;Open+to+Data+Analyst+%2F+BI+roles+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,31 +22,72 @@
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="34" /> About Me
+
+<table>
+<tr>
+<td width="58%" valign="middle">
+
+I'm **Aniket**, a **Data Analyst & Data Scientist** from Maharashtra, India 🇮🇳, with a **B.Sc. in Computer Science** from Mumbai University (CGPA 8.25).
+
+I turn messy data into **clear business decisions**. My work ranges from **Power BI and Tableau dashboards** to **Python analytics apps** that pull live data from the YouTube and OpenWeatherMap APIs. In my Spotify churn study of 8,000 users, I found a **25.9% churn rate** and showed that **engagement is the strongest predictor of retention**.
+
+Before data, I was a **web development intern and then a junior teacher**, so I can build the tool *and* explain the insight to people who aren't technical.
+
+</td>
+<td width="42%" align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="data analysis animation" />
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="data analysis animation" />
+  <img width="100%" src="assets/highlights.svg" alt="15+ projects · 20+ certifications · 6 dashboards & apps · 8.25 CGPA" />
 </p>
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="28" /> What I Bring to Your Team
+
+| Strength | How I apply it |
+| --- | --- |
+| 🔎 **Business-first thinking** | Start from the question (churn, sales drivers, KPIs), then find the data that answers it |
+| 🧹 **Clean, reliable data** | Data cleaning and modeling with Excel, SQL (joins, aggregations) and Pandas |
+| 📊 **Dashboards people use** | Power BI (DAX), Tableau, Excel and Streamlit. Six built, one deployed live |
+| 🐍 **Working analytics apps** | Python apps on live APIs (YouTube Data API, OpenWeatherMap) with Plotly charts and data export |
+| 🎤 **Clear communication** | Taught web development to students, so presenting insights to stakeholders comes naturally |
+| 🎨 **Design sense** | Figma-designed dashboard layouts that are clean and presentation-ready |
+
 ```python
-class DataAnalyst:
+class AniketGupta:
     def __init__(self):
-        self.name      = "Aniket Gupta"
-        self.role      = "Data Analyst & Data Scientist"
-        self.location  = "Maharashtra, India 🇮🇳"
-        self.languages = ["Python", "SQL", "Excel (Advanced)"]
-        self.bi_tools  = ["Power BI", "Tableau", "Excel Dashboards"]
-        self.learning  = ["Machine Learning", "Statistics", "AI"]
-        self.motto     = "Data is a story waiting to be told."
+        self.role       = "Data Analyst | Data Scientist | Web Developer"
+        self.location   = "Maharashtra, India 🇮🇳"
+        self.education  = "B.Sc. Computer Science, Mumbai University (CGPA 8.25)"
+        self.experience = ["Web Development Intern", "Junior Web Development Teacher"]
+        self.stack      = {
+            "analysis": ["Python", "SQL", "Pandas", "NumPy", "Excel"],
+            "bi":       ["Power BI", "Tableau", "Streamlit", "Plotly"],
+            "ml_ai":    ["scikit-learn", "TensorFlow", "Prompt Engineering", "crewAI"],
+            "web":      ["JavaScript", "React", "Node.js", "Firebase"],
+        }
+        self.languages  = ["English", "Hindi", "Marathi"]
+        self.learning   = ["Statistics", "Machine Learning"]
+        self.motto      = "Data is a story waiting to be told."
 
     def workflow(self):
-        return "Collect ➜ Clean ➜ Analyze ➜ Visualize ➜ Insight 💡"
+        return "Question ➜ Collect ➜ Clean ➜ Analyze ➜ Visualize ➜ Decide 💡"
 ```
 
-- 🔭 Building **dashboards & analytics apps** that answer real business questions
-- 📊 Skilled at **data cleaning, EDA, KPIs, and data storytelling**
-- 🌱 Currently strengthening **Statistics & Machine Learning**
-- 🤝 Open to **Data Analyst / BI Analyst** opportunities and collaborations
+- 🌱 **Currently learning:** Statistics & Machine Learning. Follow along in [Mathematics & Statistics](https://github.com/Aniketgupta149/Mathematics-and-Statistics)
+- 🎯 **Looking for:** Data Analyst / BI Analyst roles and collaborations
+- 📫 **Reach me:** [ag1499459@gmail.com](mailto:ag1499459@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aniket-gupta-b44611261)
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" /> My Journey
+
+<p align="center">
+  <img width="100%" src="assets/journey.svg" alt="2020 HSC Science → 2022 B.Sc. Computer Science → 2023 Web Dev Intern & Teacher → 2025 Data Analytics upskilling → Now building analytics apps, open to Data Analyst roles" />
+</p>
 
 ---
 
@@ -73,7 +114,7 @@ class DataAnalyst:
 
 ---
 
-## 📊 Featured Data Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" /> Featured Data Projects
 
 <table>
 <tr>
@@ -133,9 +174,22 @@ Relational schema for patients, doctors, appointments and billing with analytica
 
 ---
 
-## 🎓 Learning & Certifications
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30" /> Achievements & Certifications
 
-| 📚 Learning in public | 🏅 Certifications |
+- 🥇 **Winner**, Nav-Parivartan National-Level Poster Presentation
+- 🔬 **Finalist**, Aavishkar Research Project (Wave & Tidal Power Generation)
+- 🏅 **School Topper in Computer Science** and Science Exhibition Winner
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IBM-Data_Analysis_%7C_ML_with_Python-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deloitte-Data_Analytics_Job_Simulation-86BC25?style=for-the-badge&logo=deloitte&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepLearning.AI-AI_Python_%7C_Multi--Agent_crewAI-FF6F61?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NSDC-Data_Science_%26_Analytics-1E88E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Infosys-Python-007CC3?style=for-the-badge&logo=infosys&logoColor=white" />
+  <img src="https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" />
+</p>
+
+| 📚 Learning in public | 🏅 Certificate repos |
 | --- | --- |
 | [Mathematics & Statistics for Data Analysis](https://github.com/Aniketgupta149/Mathematics-and-Statistics) | [IBM: Python, Data Analysis, Machine Learning](https://github.com/Aniketgupta149/IBM_Certifications) |
 | [30 Days of Excel Data Analysis](https://github.com/Aniketgupta149/30-Days-Of-Excel-Data-Analysis) | [NSDC + SQL, Power BI, Tableau, Excel](https://github.com/Aniketgupta149/My-Certificates-of-Data-Science-Analytics) |
