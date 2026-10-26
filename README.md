@@ -1,119 +1,172 @@
+<!-- Animated header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00d4ff&height=220&section=header&text=Aniket%20Gupta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Scientist&descAlignY=58&descSize=20" width="100%"/>
+
 <p align="center">
-  <img src="Intro.gif" width="100%" alt="Aniket Gupta" />
+  <a href="https://aniket-portfolio149.web.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+business+insights+%F0%9F%93%8A;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau+%7C+Excel;Building+dashboards+that+tell+stories+%F0%9F%93%88;Exploring+Machine+Learning+%26+AI+%F0%9F%A4%96;Open+to+Data+Analyst+roles+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
 
-<h1 align="center">Hi there, I'm Aniket Gupta 👋</h1>
-<h3 align="center">Data Analyst & Data Scientist · Web Developer · Turning data into stories</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aniketgupta149&label=Profile%20views&color=00d4ff&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Aniketgupta149?label=Followers&style=flat-square&color=2c5364" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" />
+</p>
 
 <p align="center">
-  <a href="https://aniket-portfolio149.web.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://aniket-portfolio149.web.app/"><img src="https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
   <a href="https://www.linkedin.com/in/aniket-gupta-b44611261"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ag1499459@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/itz__aniket1499"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100055021034784"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 ---
 
-## 💫 About Me
+## 👨‍💻 About Me
 
-- 📊 I turn raw data into insights with **Python, SQL, and Machine Learning**
-- 📈 I build dashboards and data stories with **Power BI, Tableau, and Excel**
-- 🌐 I build web apps with **Streamlit, JavaScript, React, Node.js, and Firebase**
-- 🤖 Currently exploring how **AI, Data Science, and web tech** can solve real-world problems
-- 📍 Based in **Maharashtra, India** · open to Data Analyst / Data Science opportunities
-- ⚡ Fun fact: I believe data isn't just numbers. It's a story waiting to be told!
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="data analysis animation" />
 
----
+```python
+class DataAnalyst:
+    def __init__(self):
+        self.name      = "Aniket Gupta"
+        self.role      = "Data Analyst & Data Scientist"
+        self.location  = "Maharashtra, India 🇮🇳"
+        self.languages = ["Python", "SQL", "Excel (Advanced)"]
+        self.bi_tools  = ["Power BI", "Tableau", "Excel Dashboards"]
+        self.learning  = ["Machine Learning", "Statistics", "AI"]
+        self.motto     = "Data is a story waiting to be told."
 
-## 🚀 Featured Projects
+    def workflow(self):
+        return "Collect ➜ Clean ➜ Analyze ➜ Visualize ➜ Insight 💡"
+```
 
-| Project | Description | Tech |
-| --- | --- | --- |
-| 🎥 [YouTube-InsightX](https://github.com/Aniketgupta149/YouTube-InsightX) | Analyze any YouTube channel: growth, engagement, top videos, and CSV/Excel export | Python · Streamlit · Plotly · YouTube API |
-| 🌦️ [Meteorology-Analytics-Pro](https://github.com/Aniketgupta149/Meteorology-Analytics-Pro) | Weather analytics platform with air-quality analysis, alerts, and multi-city comparison | Python · Streamlit · Plotly · SciPy |
-| ⛅ [weather-Dashboard](https://github.com/Aniketgupta149/weather-Dashboard) · [Live](https://weather-dashboard149.streamlit.app/) | Real-time weather dashboard with 5-day forecast and analytics charts | Python · Streamlit · Seaborn |
-| 🎧 [Spotify-Analysis-Dashboard](https://github.com/Aniketgupta149/Spotify-Analysis-Dashboard) | Churn analysis of 8,000 users: who churns, why, and how engagement drives retention | Tableau · Figma |
-| 📊 [Boat-powerbi-dashboard](https://github.com/Aniketgupta149/Boat-powerbi-dashboard) | Sales, customer, and financial dashboard for boAt with KPIs and geo maps | Power BI · DAX · Figma |
-| 👟 [Nike_Sales_Dashboard](https://github.com/Aniketgupta149/Nike_Sales-_Dashboard) | Interactive Excel dashboard of Nike sales by region, product, and time | Excel |
-| 🏥 [Hospital-management-system](https://github.com/Aniketgupta149/Hospital-management-system) | Relational database for patients, doctors, appointments, and billing | MySQL |
-| 🔍 [GitHub-Profile-Finder](https://github.com/Aniketgupta149/GitHub-Profile-Finder) · [Live](https://aniketgupta149.github.io/GitHub-Profile-Finder/) | Search any GitHub user and browse their profile and top repos | HTML · CSS · JavaScript |
-| 🗜️ [smart-file-compressor-decompressor](https://github.com/Aniketgupta149/smart-file-compressor-decompressor) | Client-side text file compression using Huffman encoding | HTML · CSS · JavaScript |
+- 🔭 Building **dashboards & analytics apps** that answer real business questions
+- 📊 Skilled at **data cleaning, EDA, KPIs, and data storytelling**
+- 🌱 Currently strengthening **Statistics & Machine Learning**
+- 🤝 Open to **Data Analyst / BI Analyst** opportunities and collaborations
 
-📚 **Learning in public:** [Mathematics & Statistics for Data Analysis](https://github.com/Aniketgupta149/Mathematics-and-Statistics)
-🎓 **Certifications:** [IBM](https://github.com/Aniketgupta149/IBM_Certifications) · [Data Science & Analytics](https://github.com/Aniketgupta149/My-Certificates-of-Data-Science-Analytics)
+<br clear="right"/>
 
 ---
 
-## 💻 Tech Stack
-
-**Languages**
-<br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Data Science & Machine Learning**
-<br>
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![MLflow](https://img.shields.io/badge/mlflow-%230194E2.svg?style=for-the-badge&logo=mlflow&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-
-**Visualization & BI**
-<br>
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**Web, Cloud & Databases**
-<br>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Tools & Design**
-<br>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+## 🛠️ Analytics Toolkit
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aniketgupta149&theme=codeSTACKr&show_icons=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketgupta149&theme=codeSTACKr&layout=compact" />
-</p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Aniketgupta149&theme=codeSTACKr" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,postgres,js,html,css,react,nodejs,firebase,gcp,git,github,vscode,figma&perline=8" />
 </p>
 
-### ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+---
+
+## 📊 Featured Data Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎧 [Spotify Churn Analysis](https://github.com/Aniketgupta149/Spotify-Analysis-Dashboard)
+**Tableau · Figma**
+Analyzed 8,000 users: **25.9% churn**. Found engagement is the strongest predictor of retention.
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [boAt Sales Dashboard](https://github.com/Aniketgupta149/Boat-powerbi-dashboard)
+**Power BI · DAX**
+Sales, customer and financial KPIs with channel analysis and geo maps across India.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🎥 [YouTube InsightX](https://github.com/Aniketgupta149/YouTube-InsightX)
+**Python · Streamlit · Plotly**
+Channel analytics: growth trends, engagement rates, top videos and data export.
+
+</td>
+<td valign="top">
+
+### 🌦️ [Meteorology Analytics Pro](https://github.com/Aniketgupta149/Meteorology-Analytics-Pro)
+**Python · Plotly · SciPy**
+Weather & air-quality analytics with correlations, alerts and multi-city comparison.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 👟 [Nike Sales Dashboard](https://github.com/Aniketgupta149/Nike_Sales-_Dashboard)
+**Excel · Pivot Tables**
+Cleaned raw sales data and built an interactive dashboard by region, product and time.
+
+</td>
+<td valign="top">
+
+### 🏥 [Hospital Management DB](https://github.com/Aniketgupta149/Hospital-management-system)
+**MySQL**
+Relational schema for patients, doctors, appointments and billing with analytical queries.
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://weather-dashboard149.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-Weather_Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
+  <a href="https://aniketgupta149.github.io/GitHub-Profile-Finder/"><img src="https://img.shields.io/badge/Live_Demo-GitHub_Profile_Finder-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+## 🎓 Learning & Certifications
+
+| 📚 Learning in public | 🏅 Certifications |
+| --- | --- |
+| [Mathematics & Statistics for Data Analysis](https://github.com/Aniketgupta149/Mathematics-and-Statistics) | [IBM: Python, Data Analysis, Machine Learning](https://github.com/Aniketgupta149/IBM_Certifications) |
+| [30 Days of Excel Data Analysis](https://github.com/Aniketgupta149/30-Days-Of-Excel-Data-Analysis) | [NSDC + SQL, Power BI, Tableau, Excel](https://github.com/Aniketgupta149/My-Certificates-of-Data-Science-Analytics) |
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aniketgupta149&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketgupta149&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aniketgupta149&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aniketgupta149&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+<!-- Snake animation, generated daily by .github/workflows/snake.yml -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aniketgupta149/Aniketgupta149/output/github-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Aniketgupta149/Aniketgupta149/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://buymeacoffee.com/Aniket149"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
-  <br/><br/>
-  <img src="https://visitcount.itsvg.in/api?id=Aniketgupta149&icon=0&color=0" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=%22In+God+we+trust.+All+others+must+bring+data.%22;Thanks+for+visiting!+%E2%AD%90+Star+a+repo+if+you+like+it" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
