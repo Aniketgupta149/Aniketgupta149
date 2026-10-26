@@ -50,7 +50,7 @@ Before data, I was a **web development intern and then a junior teacher**, so I 
 | Strength | How I apply it |
 | --- | --- |
 | 🔎 **Business-first thinking** | Start from the question (churn, sales drivers, KPIs), then find the data that answers it |
-| 🧹 **Clean, reliable data** | Data cleaning and modeling with Excel, SQL (joins, aggregations) and Pandas |
+| 🧹 **Clean, reliable data** | Data cleaning and modelling with Excel, SQL (joins, aggregations) and Pandas |
 | 📊 **Dashboards people use** | Power BI (DAX), Tableau, Excel and Streamlit. Six built, one deployed live |
 | 🐍 **Working analytics apps** | Python apps on live APIs (YouTube Data API, OpenWeatherMap) with Plotly charts and data export |
 | 🎤 **Clear communication** | Taught web development to students, so presenting insights to stakeholders comes naturally |
@@ -86,7 +86,7 @@ class AniketGupta:
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" /> My Journey
 
 <p align="center">
-  <img width="100%" src="assets/journey.svg" alt="2020 HSC Science → 2022 B.Sc. Computer Science → 2023 Web Dev Intern & Teacher → 2025 Data Analytics upskilling → Now building analytics apps, open to Data Analyst roles" />
+  <img width="100%" src="assets/journey.svg" alt="2020 HSC Science → 2022 B.Sc. Computer Science  → 2025 Data Analytics upskilling → Now building analytics apps, open to Data Analyst roles" />
 </p>
 
 ---
