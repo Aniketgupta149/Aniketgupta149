@@ -48,12 +48,7 @@
     <text class="sub"   x="252" y="148">Mumbai University</text>
     <text class="sub"   x="252" y="166">CGPA 8.25 / 10</text>
   </g>
-  <g class="step d3" text-anchor="middle">
-    <text class="year"  x="420" y="58">2023</text>
-    <text class="title" x="420" y="128">Web Dev Intern → Teacher</text>
-    <text class="sub"   x="420" y="148">R.Advantec, Ulhasnagar</text>
-    <text class="sub"   x="420" y="166">Taught web development</text>
-  </g>
+  
   <g class="step d4" text-anchor="middle">
     <text class="year"  x="588" y="58">2025</text>
     <text class="title" x="588" y="128">Data Analytics Upskilling</text>
@@ -62,8 +57,8 @@
   </g>
   <g class="step d5" text-anchor="middle">
     <text class="year"  x="756" y="58">NOW</text>
-    <text class="title" x="756" y="128">Building Analytics Apps</text>
-    <text class="sub"   x="756" y="148">Python · Streamlit · ML</text>
+    <text class="title" x="756" y="128">Building Analytics web Apps at Abhinandan Creation</text>
+    <text class="sub"   x="756" y="148">AppScrpt · GoogleSheet · Clude</text>
     <text class="hi"    x="756" y="166">Open to Data Analyst roles</text>
   </g>
 
