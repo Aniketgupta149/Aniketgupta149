@@ -24,7 +24,9 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="data analysis animation" />
+<p align="center">
+  <img width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="data analysis animation" />
+</p>
 
 ```python
 class DataAnalyst:
@@ -45,8 +47,6 @@ class DataAnalyst:
 - 📊 Skilled at **data cleaning, EDA, KPIs, and data storytelling**
 - 🌱 Currently strengthening **Statistics & Machine Learning**
 - 🤝 Open to **Data Analyst / BI Analyst** opportunities and collaborations
-
-<br clear="right"/>
 
 ---
 
@@ -167,6 +167,10 @@ Relational schema for patients, doctors, appointments and billing with analytica
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=%22In+God+we+trust.+All+others+must+bring+data.%22;Thanks+for+visiting!+%E2%AD%90+Star+a+repo+if+you+like+it" />
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/Aniket149"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
