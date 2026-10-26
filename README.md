@@ -205,9 +205,6 @@ Relational schema for patients, doctors, appointments and billing with analytica
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Aniketgupta149&theme=tokyonight&hide_border=true" />
 </p>
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aniketgupta149&theme=tokyo-night&hide_border=true&area=true" />
-</p>
 
 <!-- Snake animation, generated daily by .github/workflows/snake.yml -->
 <p align="center">
