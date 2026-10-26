@@ -86,7 +86,7 @@ class AniketGupta:
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" /> My Journey
 
 <p align="center">
-  <img width="100%" src="assets/journey.svg" alt="2020 HSC Science → 2022 B.Sc. Computer Science  → 2025 Data Analytics upskilling → Now building analytics apps, open to Data Analyst roles" />
+  <img width="100%" src="assets/journey.svg" alt="2020 HSC Science → 2022 B.Sc. Computer Science  → 2025 Data Analytics upskilling → 2026 Now building analytics apps at Abhinandan Creation, open to Data Analyst roles" />
 </p>
 
 ---
